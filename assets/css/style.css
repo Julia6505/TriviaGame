@@ -1,0 +1,28 @@
+.container {
+    background-color: #A480CC;
+    height: 650px;
+    width: 80%;
+    margin-left: 9rem;
+    border: solid black 10px;
+  
+}
+
+#heading-image {
+    position: relative;
+    margin-left: 4rem;
+}
+    
+
+
+.btn-dark {
+  margin-top: 10em;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    border: transparent;
+}
+
+#questions {
+    text-align: center;
+}
